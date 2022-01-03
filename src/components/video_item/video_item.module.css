@@ -1,5 +1,9 @@
-.container {
+.container.grid {
 	width: 50%;
+}
+
+.container.list {
+	width: 100%;
 }
 
 .video {
