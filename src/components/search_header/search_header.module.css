@@ -1,0 +1,34 @@
+.header {
+	display: flex;
+}
+
+.logo {
+	display: flex;
+	align-items: center;
+	margin: 0.4em;
+	flex: 1 1 30%;
+}
+
+.icon {
+	font-size: 2.4rem;
+}
+
+.title {
+	margin: 0 0.2em;
+}
+
+.search {
+	display: flex;
+	align-items: center;
+	flex: 1 1 70%;
+}
+
+.input {
+	font-size: 1.2em;
+	outline: none;
+	flex-basis: 70%;
+}
+
+.button {
+	font-size: 1.2em;
+}

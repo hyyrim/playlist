@@ -1,855 +1,1031 @@
 {
 	"kind": "youtube#searchListResponse",
-	"etag": "3mkbi47mKQnhNK-b4nH_OP6RA4Q",
-	"nextPageToken": "CBkQAA",
+	"etag": "xw_dDtd5zOLkmEDLEvNzYlmcok0",
+	"nextPageToken": "CB4QAA",
 	"regionCode": "KR",
 	"pageInfo": {
 		"totalResults": 1000000,
-		"resultsPerPage": 25
+		"resultsPerPage": 30
 	},
 	"items": [
 		{
 			"kind": "youtube#searchResult",
-			"etag": "PeOWTzE7CFHgDD9Scw1dxfjkJ9I",
+			"etag": "kDA6XUJ0t7rsGe-39htuWSHE-rw",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "qFDTm_TBAcg"
+				"videoId": "g3NdlKHjDvE"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T03:00:01Z",
-				"channelId": "UCLkAepWjdylmXSltofFvsYQ",
-				"title": "BTS (방탄소년단) PERMISSION TO DANCE ON STAGE - LA Highlights",
-				"description": "BTS PERMISSION TO DANCE ON STAGE - LA About Online Live-Streaming Ticket: https://weverse.onelink.me/qt3S/1d6a579b To Purchase: ...",
+				"publishedAt": "2022-01-04T01:00:07Z",
+				"channelId": "UCI0zpW-HyHg745GvGE5kVdw",
+				"title": "Trending Tiktok songs 2022 ~ Viral songs latest ~ Tiktok songs playlist",
+				"description": "Trending Tiktok songs 2022 ~ Viral songs latest ~ Tiktok songs playlist Everyone like, subscribe and press the notification bell to ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/qFDTm_TBAcg/default.jpg",
+						"url": "https://i.ytimg.com/vi/g3NdlKHjDvE/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/qFDTm_TBAcg/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/g3NdlKHjDvE/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/qFDTm_TBAcg/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/g3NdlKHjDvE/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "BANGTANTV",
+				"channelTitle": "Deep Chill Mix",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T03:00:01Z"
+				"publishTime": "2022-01-04T01:00:07Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "UjVzD9JH5ta62K_aan298h4rlcY",
+			"etag": "75E2t9y1x9BxsNVLJIqViTk6t9g",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "8J0QxhGGBk8"
+				"videoId": "3FxIZ53-XZc"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T04:48:01Z",
-				"channelId": "UCVsJ4ra_01ygNeLoGc96cRg",
-				"title": "[실제장면] 한국 BTS LA 콘서트 몰래 보러간 CNN앵커가 갑자기 특종장면 3가지 포착하자 1분간 말문막혀 전세계가 난리난 상황 &quot;일본이 부러워하는 이유가 다 있었네&quot; 해외반응",
-				"description": "국내외 정치 핫이슈들을 진심을 담아 전달해 드립니다 채널 구독 과 좋아요 클릭은 진심TV에 엄청난 힘이 됩니다 ...",
+				"publishedAt": "2021-12-26T12:00:11Z",
+				"channelId": "UCKxknVfRWj3YKZuE_qiWZ4Q",
+				"title": "[playlist] 행복을 살 수 있는 가게가 있나요?",
+				"description": "본 영상은 오롤리데이의의 지원을 받아 제작하였으며 유료광고를 포함하고 있습니다. [LEEPLAY X OH, LOLLY DAY!] 오롤리데이는 ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/8J0QxhGGBk8/default.jpg",
+						"url": "https://i.ytimg.com/vi/3FxIZ53-XZc/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/8J0QxhGGBk8/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/3FxIZ53-XZc/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/8J0QxhGGBk8/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/3FxIZ53-XZc/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "진심 TV",
+				"channelTitle": "리플레이LEEPLAY",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T04:48:01Z"
+				"publishTime": "2021-12-26T12:00:11Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "KNQTJQKmxA10kKlbGK-zTY8LL-g",
+			"etag": "K_nRASrdiGdWorLou25Bb1saEEs",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "qsIjRd8-AFM"
+				"videoId": "g7c0W-8rNmw"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-29T09:00:19Z",
-				"channelId": "UC2krExUqIXZox1OiqODhTPg",
-				"title": "BTS LA콘서트에서 포착된 미국 최고 가수들 충격적인 실시간 반응",
-				"description": "BTS LA콘서트에서 포착된 미국 최고 가수들 충격적인 실시간 반응 현지에서 난리난 BTS 실시간 반응 아미분들께 빠른 소식을 전하는 올맨쇼가 되겠습니다. 구독과 ...",
+				"publishedAt": "2020-11-24T04:30:11Z",
+				"channelId": "UCSGC87iX0QhnIfUOI_B_Rdg",
+				"title": "[Playlist] 아니, 이런 노래는 어떻게 아는거야?? 너무 좋자나... | 노래 좀 듣는 애 플레이리스트😎ㅣShe has good taste in music😎",
+				"description": "Playlist by 루미너스 (벅스 뮤직PD) *벅스에서 고음질로 감상해보세요! :: http://bugs.kr/!yt0191 *루미너스님의 감성이 내 취향이라면!",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/qsIjRd8-AFM/default.jpg",
+						"url": "https://i.ytimg.com/vi/g7c0W-8rNmw/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/qsIjRd8-AFM/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/g7c0W-8rNmw/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/qsIjRd8-AFM/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/g7c0W-8rNmw/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "올맨쇼 [Today's Celeb Story!!!]",
+				"channelTitle": "essential;",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-29T09:00:19Z"
+				"publishTime": "2020-11-24T04:30:11Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "rT0LuABS6oISRSXTnp7mOXhw-Yg",
+			"etag": "s1AXGUiRS2zP87iELMgxgaWSls4",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "vnI95LLdzmQ"
+				"videoId": "njghQc3DFu0"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T10:00:34Z",
-				"channelId": "UCI08eTkq5B6xTjNTxS6h_yQ",
-				"title": "【勝負】ARMYならわかって当然⁉︎りゅうがの歌でBTSイントロクイズ！！",
-				"description": "提供：KRADE INTERNATIONAL BTSタイニータン ブルートゥースマイク https://www.amazon.co.jp/dp/B09KL3M56T?ref=myi_title_dp みんなはなんの曲かわかった ...",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/vnI95LLdzmQ/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/vnI95LLdzmQ/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/vnI95LLdzmQ/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					}
-				},
-				"channelTitle": "りゅうが",
-				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T10:00:34Z"
-			}
-		},
-		{
-			"kind": "youtube#searchResult",
-			"etag": "hVKws6ls30DKnj8dl-UcRMydU-M",
-			"id": {
-				"kind": "youtube#video",
-				"videoId": "CuklIb9d3fI"
-			},
-			"snippet": {
-				"publishedAt": "2021-07-09T03:59:12Z",
-				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
-				"title": "BTS (방탄소년단) &#39;Permission to Dance&#39; Official MV",
-				"description": "BTS (방탄소년단) 'Permission to Dance' Official MV Credits: Director: Yong Seok Choi (Lumpens) & Woogie Kim (MOTHER) -SEOUL credits: 1st AD: Jihye Yoon ...",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/CuklIb9d3fI/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/CuklIb9d3fI/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/CuklIb9d3fI/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					}
-				},
-				"channelTitle": "HYBE LABELS",
-				"liveBroadcastContent": "none",
-				"publishTime": "2021-07-09T03:59:12Z"
-			}
-		},
-		{
-			"kind": "youtube#searchResult",
-			"etag": "LbyyHlFjA6LZtwpAueC0eObSvKA",
-			"id": {
-				"kind": "youtube#video",
-				"videoId": "V_teAZ0SU5I"
-			},
-			"snippet": {
-				"publishedAt": "2021-11-30T09:00:11Z",
-				"channelId": "UC2krExUqIXZox1OiqODhTPg",
-				"title": "해외 유튜버들의 방탄 LA콘서트 현장 직캠, 실시간 반응",
-				"description": "해외 유튜버들의 방탄 LA콘서트 현장직캠, 실시간 반응 해외 유튜버들의 방탄 LA콘서트 인증연상!! 현지에서 난리난 BTS 실시간 반응 아미분들께 빠른 소식을 전하는 ...",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/V_teAZ0SU5I/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/V_teAZ0SU5I/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/V_teAZ0SU5I/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					}
-				},
-				"channelTitle": "올맨쇼 [Today's Celeb Story!!!]",
-				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T09:00:11Z"
-			}
-		},
-		{
-			"kind": "youtube#searchResult",
-			"etag": "XMrBLV6flwCl4KbSVMu-CJcmv4o",
-			"id": {
-				"kind": "youtube#video",
-				"videoId": "RmyvK1owVHU"
-			},
-			"snippet": {
-				"publishedAt": "2021-11-29T23:00:12Z",
-				"channelId": "UCAHvnSzMag_HPzzIehIHmMQ",
-				"title": "BTS CHRISTMAS SONGS 2022 🎄 BTS 크리스마스 노래 2022 ❄",
-				"description": "BTS CHRISTMAS SONGS 2022 BTS 크리스마스 노래 2022 ❄ BTS CHRISTMAS SONGS 2022 BTS 크리스마스 노래 2022 ❄ BTS CHRISTMAS SONGS ...",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/RmyvK1owVHU/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/RmyvK1owVHU/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/RmyvK1owVHU/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					}
-				},
-				"channelTitle": "N-D KPOP",
-				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-29T23:00:12Z"
-			}
-		},
-		{
-			"kind": "youtube#searchResult",
-			"etag": "_ZMXVxO-I3T7zfgkBvRucgk5Zk0",
-			"id": {
-				"kind": "youtube#video",
-				"videoId": "TcRGsVa4_Zk"
-			},
-			"snippet": {
-				"publishedAt": "2021-11-30T01:30:03Z",
-				"channelId": "UCObFk8tO4ynNewiW9tJ12hA",
-				"title": "방탄소년단 콘서트 극찬이 이어진 미국 해외언론들의 반응 BTS 콘서트 최고점과 함께 BTS LA Concert PTD ON STAGE 찬사를 보낸 언론들",
-				"description": "방탄소년단 #BTS #Sofi #BTSconcertLA #소파이 #BTSinLA.",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/TcRGsVa4_Zk/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/TcRGsVa4_Zk/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/TcRGsVa4_Zk/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					}
-				},
-				"channelTitle": "라짤",
-				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T01:30:03Z"
-			}
-		},
-		{
-			"kind": "youtube#searchResult",
-			"etag": "OKEmzQZv0vKi0dr3rjfnuSuFkxE",
-			"id": {
-				"kind": "youtube#video",
-				"videoId": "NWxU2Tqdoio"
-			},
-			"snippet": {
-				"publishedAt": "2021-11-30T02:48:04Z",
-				"channelId": "UCzWT3oqj7KCqStMnwQS1qng",
-				"title": "[긴급속보] 미국 LA 고속도로를 마비시킨 BTS 방탄소년단 콘서트 무대 진심 당황한 아나운서 현재 실검 1위 BTS LA Concert 2021 PTD ON STAGE",
-				"description": "미국 LA 고속도로를 마비시킨 방탄소년단 팬들이 실시간 화제입니다. BTS 콘서트 직후 고속도로에서 팬들은 BTS 노래를 따라부르며 실시간 난리난 반응입니다.",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/NWxU2Tqdoio/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/NWxU2Tqdoio/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/NWxU2Tqdoio/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					}
-				},
-				"channelTitle": "케이튜브",
-				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T02:48:04Z"
-			}
-		},
-		{
-			"kind": "youtube#searchResult",
-			"etag": "agXDby85W2CiLYwr2n9o1txnfXk",
-			"id": {
-				"kind": "youtube#channel",
-				"channelId": "UCLkAepWjdylmXSltofFvsYQ"
-			},
-			"snippet": {
-				"publishedAt": "2012-12-17T03:20:38Z",
-				"channelId": "UCLkAepWjdylmXSltofFvsYQ",
-				"title": "BANGTANTV",
-				"description": "방탄소년단 공식 유튜브 채널 입니다. This is the Official YouTube channel for BTS.",
-				"thumbnails": {
-					"default": {
-						"url": "https://yt3.ggpht.com/ytc/AKedOLQI3F21pwr5uuoicAc2D9iCP-8aIIy7DY7W-4ztwQ=s88-c-k-c0xffffffff-no-rj-mo"
-					},
-					"medium": {
-						"url": "https://yt3.ggpht.com/ytc/AKedOLQI3F21pwr5uuoicAc2D9iCP-8aIIy7DY7W-4ztwQ=s240-c-k-c0xffffffff-no-rj-mo"
-					},
-					"high": {
-						"url": "https://yt3.ggpht.com/ytc/AKedOLQI3F21pwr5uuoicAc2D9iCP-8aIIy7DY7W-4ztwQ=s800-c-k-c0xffffffff-no-rj-mo"
-					}
-				},
-				"channelTitle": "BANGTANTV",
-				"liveBroadcastContent": "none",
-				"publishTime": "2012-12-17T03:20:38Z"
-			}
-		},
-		{
-			"kind": "youtube#searchResult",
-			"etag": "SlYiAT5P08Ak9SU-O7cvPk4iPBs",
-			"id": {
-				"kind": "youtube#video",
-				"videoId": "RDWSVl-7cTI"
-			},
-			"snippet": {
-				"publishedAt": "2021-11-30T08:45:01Z",
-				"channelId": "UCLJDFiz0MDopiKWH5qkaBKw",
-				"title": "BTS, 2년 만의 미국 콘서트 소식을 일제히 전한 일본 아침 방송 총정리 - 콘서트 스타디움에서 전해진 훈훈한 소식",
-				"description": "라미 광복절 특집 언론 인터뷰 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=047&aid=0002280815 ※ 일본 방송 연구소 후원 계좌 ...",
-				"thumbnails": {
-					"default": {
-						"url": "https://i.ytimg.com/vi/RDWSVl-7cTI/default.jpg",
-						"width": 120,
-						"height": 90
-					},
-					"medium": {
-						"url": "https://i.ytimg.com/vi/RDWSVl-7cTI/mqdefault.jpg",
-						"width": 320,
-						"height": 180
-					},
-					"high": {
-						"url": "https://i.ytimg.com/vi/RDWSVl-7cTI/hqdefault.jpg",
-						"width": 480,
-						"height": 360
-					}
-				},
-				"channelTitle": "라미TV - 대한일본방송언론연구소",
-				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T08:45:01Z"
-			}
-		},
-		{
-			"kind": "youtube#searchResult",
-			"etag": "d1RM6MQCHz2ES0YCn5AUhq5EJqw",
-			"id": {
-				"kind": "youtube#video",
-				"videoId": "O4R0fGSb3P0"
-			},
-			"snippet": {
-				"publishedAt": "2021-11-28T05:16:10Z",
-				"channelId": "UCnqkClmpkbi2xRjttuYPvWw",
-				"title": "211127 BTS/방탄소년단 &#39;Blood Sweat &amp; Tears + Fake Love&#39; @PTD ON STAGE LA DAY 1 SoFi Stadium",
+				"publishedAt": "2022-01-02T13:15:09Z",
+				"channelId": "UCKxknVfRWj3YKZuE_qiWZ4Q",
+				"title": "[playlist] 나이를 먹는다는 건",
 				"description": "",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/O4R0fGSb3P0/default.jpg",
+						"url": "https://i.ytimg.com/vi/njghQc3DFu0/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/O4R0fGSb3P0/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/njghQc3DFu0/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/O4R0fGSb3P0/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/njghQc3DFu0/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "BTS LIVE 2",
+				"channelTitle": "리플레이LEEPLAY",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-28T05:16:10Z"
+				"publishTime": "2022-01-02T13:15:09Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "p6_7_1ooKxoV-eJxXXvL90dTI_I",
+			"etag": "iFFN9Qp9hNDiQnhvGa0cvpLOVtc",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "z7XAz3nLFTQ"
+				"videoId": "IglSZ0cKSto"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T12:00:25Z",
-				"channelId": "UC2b95z-7qEMue4u_D0I2dLA",
-				"title": "【速報】BTSの兵役優遇の可能性は消えた？！ ハイブ株価が急激に下がる理由は、、、",
-				"description": "BTSの専門チャンネル、BTSの協会です。 主に、BTSのニュース、BTSへの海外の反応をお届けします。ご視聴ありがとうございました。 ☆チャンネル登録こちら↓ ...",
+				"publishedAt": "2022-01-04T04:14:17Z",
+				"channelId": "UCwu9r69FHcvyvOLMhXQajFw",
+				"title": "TOP 40 Songs of 2021 2022🥝 (Best Hit Music Playlist) on Spotify 🥝Maroon 5Justin Bieber, Ed Sheeran..",
+				"description": "TOP 40 Songs of 2021 2022   (Best Hit Music Playlist) on Spotify Maroon 5Justin Bieber, Ed Sheeran.",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/z7XAz3nLFTQ/default.jpg",
+						"url": "https://i.ytimg.com/vi/IglSZ0cKSto/default_live.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/z7XAz3nLFTQ/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/IglSZ0cKSto/mqdefault_live.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/z7XAz3nLFTQ/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/IglSZ0cKSto/hqdefault_live.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "BTS協会",
-				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T12:00:25Z"
+				"channelTitle": "Love Forever",
+				"liveBroadcastContent": "live",
+				"publishTime": "2022-01-04T04:14:17Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "FtVGDIuJ4cj3G87_Hn9CYZB97PA",
+			"etag": "ZQsUQvPL7fhfdqy0KQ44pVSibyg",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "FSSQQc63Z8U"
+				"videoId": "ZgGn6cKMOEg"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T01:50:13Z",
-				"channelId": "UCCJqV51jBRllaV3c-wXc3pg",
-				"title": "BTS &#39;Permission to Dance&#39; at SoFi Day 2 from Section 529, Row 14",
-				"description": "Hey guys! So I know some of you have wondered what happened after \"My BTS Pre-Sale Ticket Buying Experience\" vlog. BTS, thank you to the folks who wrote ...",
+				"publishedAt": "2022-01-03T00:36:02Z",
+				"channelId": "UCVBn7HhvQXkZfzRGFZQcS7Q",
+				"title": "Playlist Mới 60 | MASHUP 10 bài HOT Tik Tok ví dầu đưa dâu, không bằng - Changmie, Tiến Tới, Ca Ca",
+				"description": "MASHUP hơn 10 bài HOT trên Tik Tok P9: https://youtu.be/NmjphevjgoU Playlist MASHUP hơn 10 bài HOT trên Tik Tok P1, P2, ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/FSSQQc63Z8U/default.jpg",
+						"url": "https://i.ytimg.com/vi/ZgGn6cKMOEg/default_live.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/FSSQQc63Z8U/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/ZgGn6cKMOEg/mqdefault_live.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/FSSQQc63Z8U/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/ZgGn6cKMOEg/hqdefault_live.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "Anji Bee",
-				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T01:50:13Z"
+				"channelTitle": "Fin'D",
+				"liveBroadcastContent": "live",
+				"publishTime": "2022-01-03T00:36:02Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "UkOu5maN-P3qdRpWLDuw78obA7g",
+			"etag": "MS2XLU0iFJUchU1cgyEBufEho0Y",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "DJPhgJBJBB0"
+				"videoId": "5VWuWuZegWI"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-29T20:45:01Z",
-				"channelId": "UCPnyWr2K0yjPsmGV-pO_1vQ",
-				"title": "B T S ALL PLAYLIST NEW SONGS 2021 (Update) 방탄소년단 노래 모음",
-				"description": "B T S ALL PLAYLIST NEW SONGS 2021 (Update) 방탄소년단 노래 모음 B T S ALL PLAYLIST NEW SONGS 2021 (Update) 방탄소년단 노래 모음 B T S ALL ...",
+				"publishedAt": "2021-11-08T13:10:38Z",
+				"channelId": "UC_uGsl4eLk_xRbXmokl9muA",
+				"title": "Playlist đó, nhưng tôi không biết đặt tên sao…. | Vietnamese music",
+				"description": "Ok, thì bạn nào có sáng tác được bài hát nào hay có thể gửi về: Email: chillwithme131029@gmail.com ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/DJPhgJBJBB0/default.jpg",
+						"url": "https://i.ytimg.com/vi/5VWuWuZegWI/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/DJPhgJBJBB0/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/5VWuWuZegWI/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/DJPhgJBJBB0/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/5VWuWuZegWI/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "음악적감정",
+				"channelTitle": "Diarial Chill",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-29T20:45:01Z"
+				"publishTime": "2021-11-08T13:10:38Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "S-eybumKu0jn4JuC3kHYrFakCx8",
+			"etag": "R3Qu8_BFgakPddDKHNF46h1jtk8",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "J7APHkd6Y4o"
+				"videoId": "qDBaVO-B42E"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T07:07:42Z",
-				"channelId": "UC6rPI_VXOyakUh_9LUk9BZA",
-				"title": "211128 Permission to Dance on Stage in LA - Dynamite+Butter / BTS V / 방탄소년단 뷔 (4K fancam)",
-				"description": "NUNA V(누나비) for BTS V Dynamite (Tropical Remix)+Butter (Feat. Megan Thee Stallion) 신나서 뛰어다니면서 무대하는 태형이 너무너무 귀엽구 예뻐요   Please ...",
+				"publishedAt": "2021-12-30T06:00:13Z",
+				"channelId": "UCSGC87iX0QhnIfUOI_B_Rdg",
+				"title": "[Playlist] 추운 겨울 따뜻한 위스키 한 잔ㅣ글렌피딕과 함께하는 무드있는 연말 마무리ㅣwinter jazz with glenfiddich",
+				"description": "글렌피딕 x essential; * 본 컨텐츠는 벅스와 글렌피딕이 함께 제작하였습니다   Playlist by 벅스PD (벅스 뮤직PD) *벅스에서 광고 없이 ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/J7APHkd6Y4o/default.jpg",
+						"url": "https://i.ytimg.com/vi/qDBaVO-B42E/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/J7APHkd6Y4o/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/qDBaVO-B42E/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/J7APHkd6Y4o/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/qDBaVO-B42E/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "NUNA V",
+				"channelTitle": "essential;",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T07:07:42Z"
+				"publishTime": "2021-12-30T06:00:13Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "FLBIBIagrsIG4fqEeFjT9ps6ubY",
+			"etag": "sMk1sCHcKIZrkAs88HsTp3IuLtI",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "5xsbcXeKKDE"
+				"videoId": "764pz8TsqRU"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T04:48:37Z",
-				"channelId": "UCfq4V1DAuaojnr2ryvWNysw",
-				"title": "“BTS 왔다”…2년 기다린 전 세계 아미 LA로 총집결 | 뉴스A 라이브",
-				"description": "BTS 왔다”…2년 기다린 전 세계 아미 LA로 총집결 □ 방송 : 채널A 뉴스A 라이브 (12:00~13:20) □ 방송일 : 2021년 11월 30일 (화요일) □ 진행 : 황순욱 앵커 □ 출연 ...",
+				"publishedAt": "2021-10-03T14:00:11Z",
+				"channelId": "UCKxknVfRWj3YKZuE_qiWZ4Q",
+				"title": "[playlist] 여유로운 오후, 성수동 카페에서",
+				"description": "본 영상은 한섬 EQL 의 지원을 받아 제작하였으며 유료광고를 포함하고 있습니다. [LEEPLAY X EQL] 어떠한 편견도 선입견도 없는 ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/5xsbcXeKKDE/default.jpg",
+						"url": "https://i.ytimg.com/vi/764pz8TsqRU/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/5xsbcXeKKDE/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/764pz8TsqRU/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/5xsbcXeKKDE/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/764pz8TsqRU/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "채널A 뉴스",
+				"channelTitle": "리플레이LEEPLAY",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T04:48:37Z"
+				"publishTime": "2021-10-03T14:00:11Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "dbXLYVlgGqnfQqnd3fvAgOAOBv8",
+			"etag": "vbnzb_6QzKr_8rUO4AOUg1Bl8QA",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "YiwyfXzehJM"
+				"videoId": "RplgBqa_bb4"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T11:00:13Z",
-				"channelId": "UCSg6Jb-pD_8j-9SPCxOS_tA",
-				"title": "【ジミン】BTS「Black Swan」Dance Practice観たら心臓止まりかけた。",
-				"description": "【ジミン】BTS「Black Swan」Dance Practice観たら心臓止まりかけた。 #bts #blackswan #ジミン.",
+				"publishedAt": "2022-01-01T01:08:34Z",
+				"channelId": "UCKxknVfRWj3YKZuE_qiWZ4Q",
+				"title": "[playlist] 새로운 해를 맞이하며",
+				"description": "Photo : Jeju, Korea (2021) Camera : fuji x100f Contact & SNS : https://linktr.ee/leeplay ☑️ 이 채널에 쓰이는 사진은 모두 제가 ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/YiwyfXzehJM/default.jpg",
+						"url": "https://i.ytimg.com/vi/RplgBqa_bb4/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/YiwyfXzehJM/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/RplgBqa_bb4/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/YiwyfXzehJM/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/RplgBqa_bb4/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "嵐に会いたいダンサーやす",
+				"channelTitle": "리플레이LEEPLAY",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T11:00:13Z"
+				"publishTime": "2022-01-01T01:08:34Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "xLrxqC_KR-vigRPKXEq7xKjVFEQ",
+			"etag": "m314JgW-1djGf2-C0ugaRNypjCs",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "RCKIiMp0lNk"
+				"videoId": "RIwhNmStCBg"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T07:25:28Z",
-				"channelId": "UCmFOVY6VfwQTnQVLVgPq7wQ",
-				"title": "211128 PTD on Stage LA IDOL 지민 직캠 BTS JIMIN FOCUS FANCAM",
-				"description": "goodday_1013.",
+				"publishedAt": "2021-12-09T10:00:10Z",
+				"channelId": "UCweFCeE7R38-pvPl6RifWpw",
+				"title": "[playlist] 우리의 겨울은",
+				"description": "윌리엄스버그뉴욕시티 x 네고막을책임져도될까 윌리엄스버그뉴욕시티는 뉴욕을 베이스로 한 캐주얼 시티웨어를 지향합니다. 또한 ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/RCKIiMp0lNk/default.jpg",
+						"url": "https://i.ytimg.com/vi/RIwhNmStCBg/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/RCKIiMp0lNk/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/RIwhNmStCBg/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/RCKIiMp0lNk/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/RIwhNmStCBg/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "너라서 좋은 날",
+				"channelTitle": "네고막을책임져도될까",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T07:25:28Z"
+				"publishTime": "2021-12-09T10:00:10Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "HLo-h_fZdZ_t0CRS0w2BYrHcXN8",
+			"etag": "FOV_jJvzeyIvsuoWE68yBLQ-cHg",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "jXTI2cRl-zs"
+				"videoId": "EfoRBLR1XA0"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T04:15:53Z",
-				"channelId": "UC6kHD41Nogfpidnwzqcb80Q",
-				"title": "BTS 콘서트에 LA가 들썩인다!코리아타운 특수?방탄 한류로 대박난 한국 까페!드래곤 보바집 믿기힘든 줄선 이유?",
-				"description": "bts #방탄소년단.",
+				"publishedAt": "2022-01-03T12:29:32Z",
+				"channelId": "UC4NwTRC2PHTcnMVfjLycHHA",
+				"title": "편백숲에서 사랑을 거닐다. / calm and love playlist",
+				"description": "본 영상은 희녹의 지원을 받아 제작되었으며 유료 광고를 포함하고 있습니다. [ offweb x hinok ] Made with Respect 제주 편백숲을 ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/jXTI2cRl-zs/default.jpg",
+						"url": "https://i.ytimg.com/vi/EfoRBLR1XA0/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/jXTI2cRl-zs/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/EfoRBLR1XA0/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/jXTI2cRl-zs/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/EfoRBLR1XA0/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "MC 선화 MC Sunwha",
+				"channelTitle": "offweb",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T04:15:53Z"
+				"publishTime": "2022-01-03T12:29:32Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "c_LnKupW-gscAe-xUTK5R7uesa0",
+			"etag": "MSDsiay-j6REgb6iVe4y9Q7bNRw",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "FEGghaMuBdM"
+				"videoId": "uR3aQOgzyDU"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T11:45:31Z",
-				"channelId": "UCzWT3oqj7KCqStMnwQS1qng",
-				"title": "[긴급속보] 미국 LA 놀이공원에 나타난 BTS 방탄소년단 멤버 갑자기 눈물 흘리는 팬들 실시간 외국인 반응 BTS LA Concert 2021 PTD ON STAGE",
-				"description": "미국 놀이공원에 방탄소년단 멤버가 등장했다는 긴급 속보입니다. BTS 멤버를 봤다는 목격담이 올라오면서 제대로 난리난 반응입니다. #BTS #방탄소년단 #해외 ...",
+				"publishedAt": "2021-12-12T12:00:14Z",
+				"channelId": "UCKxknVfRWj3YKZuE_qiWZ4Q",
+				"title": "[playlist] 오래도록 고맙도록",
+				"description": "LEEPLAY 채널에서 사랑받은 플레이리스트들만 모아 만든 연말 결산 플레이리스트입니다 플레이리스트 썸네일로 만들어진 2022 ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/FEGghaMuBdM/default.jpg",
+						"url": "https://i.ytimg.com/vi/uR3aQOgzyDU/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/FEGghaMuBdM/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/uR3aQOgzyDU/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/FEGghaMuBdM/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/uR3aQOgzyDU/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "케이튜브",
+				"channelTitle": "리플레이LEEPLAY",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T11:45:31Z"
+				"publishTime": "2021-12-12T12:00:14Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "28zCo0f6iZWwd0BESW2tTwp-rLY",
+			"etag": "5hWwh-HtZiYjpiuccvM8IQy3Ems",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "kzg7GkMNWo4"
+				"videoId": "m1WYGb3NVgE"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-29T08:23:18Z",
-				"channelId": "UC5V0pRiH7iUqkdmBMKt94_A",
-				"title": "[ENG SUB] BTS SUGA LIVE VLIVE (2021.11.29) BTS VLIVE 2021",
-				"description": "",
+				"publishedAt": "2022-01-03T07:40:08Z",
+				"channelId": "UCW5tLKsvXqeKvrqo9QZdUng",
+				"title": "Tik Tok Hits ~ Tiktok songs playlist that is actually good ~ Chillvibes 🎵",
+				"description": "Tik Tok Hits ~ Tiktok songs playlist that is actually good ~ Chillvibes #usuk #tiktoksongs2021 #chillvibes Everyone likes, ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/kzg7GkMNWo4/default.jpg",
+						"url": "https://i.ytimg.com/vi/m1WYGb3NVgE/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/kzg7GkMNWo4/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/m1WYGb3NVgE/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/kzg7GkMNWo4/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/m1WYGb3NVgE/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "mosalsalalrayan",
+				"channelTitle": "Something old, something new",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-29T08:23:18Z"
+				"publishTime": "2022-01-03T07:40:08Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "u3Pcp_RXSAY6q8fLgBqhi485mUE",
+			"etag": "tDR3K0yQvjdYTo-uUdJUcMmYJLQ",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "Qd17KIYN2pk"
+				"videoId": "r4Xstoq18gA"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T00:02:18Z",
-				"channelId": "UC5HSw5OY2vfVFSihpiB-AVQ",
-				"title": "BTS, 2년 만에 대면 콘서트...미국 LA 열기 &#39;후끈&#39;(김영대) / FA된 이승우, 새 둥지 틀 리그는? &amp; MLB 도전 마친 양현종(박동희,박문성) [김어준의 뉴스공장]",
-				"description": "11월 30일(화) 김어준의 뉴스공장 ◎ 4부 [문화공장] BTS, 미국서 2년 만에 대면 콘서트 개최 \"LA 전체가 축제 분위기.. 대규모 공연 부활 신호탄\" - 김영대 음악평론가 ...",
+				"publishedAt": "2021-07-23T13:42:25Z",
+				"channelId": "UC_uGsl4eLk_xRbXmokl9muA",
+				"title": "[Playlist] Những Bản Nhạc Vui Vẻ, Chill Cho Ngày Mới | Relaxing And Chill Music… | Vietnamese music",
+				"description": "Ok, thì bạn nào có sáng tác được bài hát nào hay có thể gửi về: Email: chillwithme131029@gmail.com ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/Qd17KIYN2pk/default.jpg",
+						"url": "https://i.ytimg.com/vi/r4Xstoq18gA/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/Qd17KIYN2pk/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/r4Xstoq18gA/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/Qd17KIYN2pk/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/r4Xstoq18gA/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "TBS 시민의방송",
+				"channelTitle": "Diarial Chill",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T00:02:18Z"
+				"publishTime": "2021-07-23T13:42:25Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "98Qt_nXxBv2dKMjqHt-IGXv-DLk",
+			"etag": "xhRuY0ceDMFtfIX_6g4HUTAmWbc",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "lx1qTO2o6pw"
+				"videoId": "ejFXf0GRTaQ"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-29T12:20:57Z",
-				"channelId": "UCyaeHc2ZiscY5Ff9UTgOPZQ",
-				"title": "알고보니 팬들 눈물나게 한다는 방탄소년단 브이앱 속 광고언급 후 반응 BTS Vlive",
-				"description": "방탄브이앱 #뒷광고 #신라면 #지민 #뷔 #정국 #BTS #콘서트 #브이라이브 방탄소년단 브이앱 중 갑자기 나타난 현상.",
+				"publishedAt": "2022-01-03T14:54:54Z",
+				"channelId": "UCEi0EgWJ5m7gVBQ68a1L0TA",
+				"title": "Indie/Rock/Alternative Compilation - January 2022 (1½-Hour Playlist)",
+				"description": "Discover the best new indie, rock & alt music in our January compilation! Tracklist below… LISTEN ON SPOTIFY: ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/lx1qTO2o6pw/default.jpg",
+						"url": "https://i.ytimg.com/vi/ejFXf0GRTaQ/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/lx1qTO2o6pw/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/ejFXf0GRTaQ/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/lx1qTO2o6pw/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/ejFXf0GRTaQ/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "에피소드방탄",
+				"channelTitle": "alexrainbirdMusic",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-29T12:20:57Z"
+				"publishTime": "2022-01-03T14:54:54Z"
 			}
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "oq6iVOsBET_aD2qZCa6Ndb7Z-kE",
+			"etag": "OAkVTtOrKgiMcwU0kRc7m4gsKa4",
 			"id": {
 				"kind": "youtube#video",
-				"videoId": "rjV7GK0ID5Q"
+				"videoId": "1sLtS0JF-W8"
 			},
 			"snippet": {
-				"publishedAt": "2021-11-30T03:54:54Z",
-				"channelId": "UCe6PVd1NY2TjROInvw7iTKA",
-				"title": "Linton Reacts to Who Is BTS?",
-				"description": "Request the next video: https://www.patreon.com/lintonwilson Watch survival series with me: https://www.patreon.com/lintonwilson ...",
+				"publishedAt": "2022-01-02T21:45:09Z",
+				"channelId": "UCK3aqSPhFJH2XQa2mREnSVQ",
+				"title": "Playlist ❣️ 새해부터 프로필 뮤직 마려워지는 둠칫 감성 플리 | 틀어놓으면 기분 좋아지는 둠칫한 노래모음 플레이리스트 광고없음",
+				"description": "남자사람친구의 Playlist 멜론에서 듣고 싶은 친구들   http://kko.to/MMav9xwJz ✏️좋아요와 구독, 댓글은 아주 아주 큰 힘이 ...",
 				"thumbnails": {
 					"default": {
-						"url": "https://i.ytimg.com/vi/rjV7GK0ID5Q/default.jpg",
+						"url": "https://i.ytimg.com/vi/1sLtS0JF-W8/default.jpg",
 						"width": 120,
 						"height": 90
 					},
 					"medium": {
-						"url": "https://i.ytimg.com/vi/rjV7GK0ID5Q/mqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/1sLtS0JF-W8/mqdefault.jpg",
 						"width": 320,
 						"height": 180
 					},
 					"high": {
-						"url": "https://i.ytimg.com/vi/rjV7GK0ID5Q/hqdefault.jpg",
+						"url": "https://i.ytimg.com/vi/1sLtS0JF-W8/hqdefault.jpg",
 						"width": 480,
 						"height": 360
 					}
 				},
-				"channelTitle": "Linton Wilson",
+				"channelTitle": "남자사람친구",
 				"liveBroadcastContent": "none",
-				"publishTime": "2021-11-30T03:54:54Z"
+				"publishTime": "2022-01-02T21:45:09Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "PMsFfna0jLDQ2UFyo96O9Levjy0",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "wdzk5hdiANc"
+			},
+			"snippet": {
+				"publishedAt": "2022-01-01T16:20:57Z",
+				"channelId": "UC0xGfrggNifsd0osP3EpdjQ",
+				"title": "(POV) you&#39;re the villain everybody loves ~a playlist~",
+				"description": "evil #villain #badguy (POV) you're the villain everybody loves ~a playlist~ 🎙️ Tracklists: 0. 01 - Michael Bublé - Feeling Good 1.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/wdzk5hdiANc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/wdzk5hdiANc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/wdzk5hdiANc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Hits Everyday",
+				"liveBroadcastContent": "none",
+				"publishTime": "2022-01-01T16:20:57Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "K47ZHY_xZ7napvqXuk0tU3RJSZ0",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "zGFlUyALEAo"
+			},
+			"snippet": {
+				"publishedAt": "2021-12-13T09:03:19Z",
+				"channelId": "UC_uGsl4eLk_xRbXmokl9muA",
+				"title": "Playlist, thế thôi | Vietnamese music",
+				"description": "Ok, thì bạn nào có sáng tác được bài hát nào hay có thể gửi về: Email: chillwithme131029@gmail.com ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/zGFlUyALEAo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/zGFlUyALEAo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/zGFlUyALEAo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Diarial Chill",
+				"liveBroadcastContent": "none",
+				"publishTime": "2021-12-13T09:03:19Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "kzCCgJKR-JVV3yxuhs67TmFvvFs",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "5r12_vtSlkA"
+			},
+			"snippet": {
+				"publishedAt": "2021-12-31T01:58:34Z",
+				"channelId": "UCuCVoRlHLZJfTzqGCBj5k6Q",
+				"title": "[Playlist] 이건 정말 나만 알고 싶었는데, 처음부터 끝까지 다 좋은 주인장 𝐏𝐈𝐂𝐊 팝 컬렉션💘 l 𝗣𝗢𝗣 𝗣𝗟𝗔𝗬𝗟𝗜𝗦𝗧",
+				"description": "여러분 거의 한 달 만이죠..? 그간 일이 너무 많아서 이제야 업로드하게 되었습니다   제가 없는 사이에 구독자 2만 명이 되었더라구요( ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/5r12_vtSlkA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/5r12_vtSlkA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/5r12_vtSlkA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "원투플ᴡᴀɴᴛ ᴛᴏ ᴘʟᴀʏ",
+				"liveBroadcastContent": "none",
+				"publishTime": "2021-12-31T01:58:34Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "08z5X0jCo2-IzUJPmBHodIiVK1o",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "YCNTqIxiFl0"
+			},
+			"snippet": {
+				"publishedAt": "2021-12-31T01:00:08Z",
+				"channelId": "UCI0zpW-HyHg745GvGE5kVdw",
+				"title": "Viral songs latest ~ Goodbye 2021 ~ Trending Tiktok songs 2021",
+				"description": "Viral songs latest ~ Goodbye 2021 ~ Trending Tiktok songs 2021 Everyone like, subscribe and press the notification bell to ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/YCNTqIxiFl0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/YCNTqIxiFl0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/YCNTqIxiFl0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Deep Chill Mix",
+				"liveBroadcastContent": "none",
+				"publishTime": "2021-12-31T01:00:08Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "AV2GGfl-PDDrwAa6lDpNQh47ByU",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "avmObbTTUVE"
+			},
+			"snippet": {
+				"publishedAt": "2021-11-01T00:30:00Z",
+				"channelId": "UCM5LyiPM0PsqbUkR4pTlp5Q",
+				"title": "SPOTIFY TOP HITS INDONESIA NOVEMBER 2021 (TANPA IKLAN) NO ADS 🌴🌴🌴",
+				"description": "SPOTIFY TOP HITS INDONESIA NOVEMBER 2021 (TANPA IKLAN) NO ADS ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/avmObbTTUVE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/avmObbTTUVE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/avmObbTTUVE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Phoenix Music 2022",
+				"liveBroadcastContent": "none",
+				"publishTime": "2021-11-01T00:30:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "ZigrAXcjRuLh7pVwmupTFdya5Sc",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "D5ENS5F28So"
+			},
+			"snippet": {
+				"publishedAt": "2021-12-25T09:00:05Z",
+				"channelId": "UCIVGTOc8ZwAKtWc_awlzskg",
+				"title": "[playlist] 도입부부터 세련된 팝송모음",
+				"description": "럭하! 옐럭드레이 입니다 :) 오늘은~! 오랜만에 돌아온 도입부 시리즈 ( ᐛ )و (수익창출 X) 그리고 고대하던 크리스마스가 찾아왔네요.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/D5ENS5F28So/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/D5ENS5F28So/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/D5ENS5F28So/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "#yeLocDirAe 옐럭",
+				"liveBroadcastContent": "none",
+				"publishTime": "2021-12-25T09:00:05Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "Gnhio-FrGbjPlNJ6LgqnIFJani8",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "ZurRx-nAO-s"
+			},
+			"snippet": {
+				"publishedAt": "2021-09-04T06:30:12Z",
+				"channelId": "UC1yiAzYZZJowyy9Do3H34iQ",
+				"title": "I bet you know all these songs 💿 a throwback playlist",
+				"description": "I bet you know all these songs a throwback playlist You know this vibes so let's chill with me! Discover your new favorite song ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ZurRx-nAO-s/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ZurRx-nAO-s/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ZurRx-nAO-s/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Saturday Melody",
+				"liveBroadcastContent": "none",
+				"publishTime": "2021-09-04T06:30:12Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "b0tAcsc8jSGzNHI33-WPqLMkVYk",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "-e2gq0FfRK0"
+			},
+			"snippet": {
+				"publishedAt": "2021-10-12T13:37:06Z",
+				"channelId": "UCVut4hqvrjQC4qDE3oc5qig",
+				"title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 반복되는 일상 속 작은 행복을 찾아봐요ㅣFeeling good playlist",
+				"description": "Recording 행복한 한 주를 만들어줄 듣기만 해도 기분 좋아지는 노래들로 준비해왔어요 ･ᴗ･ #플레이리스트 #팝송추천 #행복한 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/-e2gq0FfRK0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/-e2gq0FfRK0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/-e2gq0FfRK0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "때껄룩ᴛᴀᴋᴇ ᴀ ʟᴏᴏᴋ",
+				"liveBroadcastContent": "none",
+				"publishTime": "2021-10-12T13:37:06Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "2kTcW-YsD5d4qkAaIwIz-TB06Ss",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "ikwy7Zu-xZw"
+			},
+			"snippet": {
+				"publishedAt": "2021-12-29T13:07:41Z",
+				"channelId": "UCW5tLKsvXqeKvrqo9QZdUng",
+				"title": "Playlist of songs that&#39;ll make you dance ~ Feeling good playlist",
+				"description": "Playlist of songs that'll make you dance ~ Feeling good playlist #usuk #songmakeyoudance #feelinggood Everyone likes, ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ikwy7Zu-xZw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ikwy7Zu-xZw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ikwy7Zu-xZw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Something old, something new",
+				"liveBroadcastContent": "none",
+				"publishTime": "2021-12-29T13:07:41Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "H_Njiqt6JswIOTDqLsxtWD0iNbE",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "GcLAWRbCsYk"
+			},
+			"snippet": {
+				"publishedAt": "2021-12-24T11:17:36Z",
+				"channelId": "UCxGyH7vzYkZwFseTUa3yZpQ",
+				"title": "2021년 한 해 동안 많은 사랑을 받았던 팝송 모음 | PLAYLIST",
+				"description": "작년 연말에 처음 업로드 했었던 2020 플레이리스트에 이어 올해 연말에도 2021 플레이리스트를 들고 왔습니다! 비록 2020 한 해 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/GcLAWRbCsYk/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/GcLAWRbCsYk/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/GcLAWRbCsYk/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "찐막 JJINMAK",
+				"liveBroadcastContent": "none",
+				"publishTime": "2021-12-24T11:17:36Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "JW7FHs8tOqM9QukLG-Nz1Jd0J14",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "Z0llZ0rAO6w"
+			},
+			"snippet": {
+				"publishedAt": "2021-12-29T06:30:13Z",
+				"channelId": "UC1yiAzYZZJowyy9Do3H34iQ",
+				"title": "Wednesday Mood 🎵 A playlist of songs that is actually good",
+				"description": "Wednesday Mood A playlist of songs that is actually good Everyone like, subscribe and press the notification bell to support me!",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Z0llZ0rAO6w/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Z0llZ0rAO6w/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Z0llZ0rAO6w/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Saturday Melody",
+				"liveBroadcastContent": "none",
+				"publishTime": "2021-12-29T06:30:13Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "kDnOmSs7WYanU5MxpESo0Dd65M4",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "8CKeS-6eeHI"
+			},
+			"snippet": {
+				"publishedAt": "2022-01-02T01:00:02Z",
+				"channelId": "UCI0zpW-HyHg745GvGE5kVdw",
+				"title": "Relax On Sunday ~ Morning Vibes ~ Song to make you feel better mood",
+				"description": "Relax On Sunday ~ Morning Vibes ~ Song to make you feel better mood Everyone like, subscribe and press the notification bell ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/8CKeS-6eeHI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/8CKeS-6eeHI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/8CKeS-6eeHI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Deep Chill Mix",
+				"liveBroadcastContent": "none",
+				"publishTime": "2022-01-02T01:00:02Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "j3UXsebEZlsEdYcKH6tlSKmxToU",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "W65X7gRhniw"
+			},
+			"snippet": {
+				"publishedAt": "2022-01-02T12:15:01Z",
+				"channelId": "UCVbsV2-02lFeNNVfdVa2dZw",
+				"title": "[playlist3] playlist này sẽ giúp tâm trạng bạn tốt hơn trong năm mới.",
+				"description": "các bạn nên đeo tai nghe để có trải nghiệm tốt nhất nhé, giờ thì thư giãn đi nào. 1 9 6 7: https://www.youtube.com/channel/UC-lB...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/W65X7gRhniw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/W65X7gRhniw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/W65X7gRhniw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "flechazowu",
+				"liveBroadcastContent": "none",
+				"publishTime": "2022-01-02T12:15:01Z"
 			}
 		}
 	]

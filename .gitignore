@@ -24,3 +24,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# data
+videoList.json
+channel.json
+
+# service
+youtube-fetch.js

@@ -1,0 +1,10 @@
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.keywords,
+.channel {
+	list-style: none;
+	display: flex;
+}
