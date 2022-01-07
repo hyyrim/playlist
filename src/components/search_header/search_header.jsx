@@ -1,20 +1,20 @@
-import React, { useRef } from 'react';
+import React, { memo, useRef } from 'react';
 import styles from './search_header.module.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPlayCircle, faSearch } from '@fortawesome/free-solid-svg-icons';
 
-const SearchHeader = ({ onSearch }) => {
+const SearchHeader = memo(({ onSearch, toMainPage }) => {
 	const inputRef = useRef(null);
 
 	const handleSearch = (e) => {
 		e.preventDefault();
 		const value = inputRef.current.value;
 		onSearch(value);
+		inputRef.current.value = '';
 	};
-
 	return (
 		<header className={styles.header}>
-			<div className={styles.logo}>
+			<div className={styles.logo} onClick={toMainPage}>
 				<FontAwesomeIcon
 					className={styles.icon}
 					icon={faPlayCircle}
@@ -34,5 +34,5 @@ const SearchHeader = ({ onSearch }) => {
 			</form>
 		</header>
 	);
-};
+});
 export default SearchHeader;

@@ -7,14 +7,17 @@
 	align-items: center;
 	margin: 0.4em;
 	flex: 1 1 30%;
+	cursor: pointer;
 }
 
 .icon {
 	font-size: 2.4rem;
+	color: #b39ddb;
 }
 
 .title {
 	margin: 0 0.2em;
+	color: #212121;
 }
 
 .search {

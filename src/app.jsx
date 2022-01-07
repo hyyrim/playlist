@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import styles from './app.module.css';
 import Keywords from './components/keywords/keywords';
 import SearchHeader from './components/search_header/search_header';
@@ -6,30 +6,29 @@ import VideoDetail from './components/video_detail/video_detail';
 import VideoList from './components/video_list/video_list';
 import data from './videoList.json';
 
-function App({ youtube }) {
+function App({ youtube, recommend }) {
 	const [videos, setVideos] = useState([]);
 	const [selectedVideo, setSelectedVideo] = useState(null);
-
-	const keywords = ['코딩', '운동', '수면', '드라이브'];
-	const channel = [
-		'essential;',
-		'리플레이',
-		'네고막을책임져도될까',
-		'Ode Studio Seoul',
-	];
 
 	const selectVideo = (video) => {
 		setSelectedVideo(video);
 	};
 
-	const search = (query) => {
+	const search = useCallback((query) => {
 		youtube
 			.search(query) //
 			.then(
 				(videos) => setVideos(videos), //
 				setSelectedVideo(null)
 			);
-	};
+	}, []);
+
+	const toMainPage = useCallback(() => {
+		youtube
+			.setPlayList() //
+			.then((video) => setVideos(video));
+		setSelectedVideo(null);
+	}, []);
 
 	useEffect(() => {
 		youtube
@@ -43,10 +42,10 @@ function App({ youtube }) {
 	return (
 		<div className={styles.app}>
 			<header>
-				<SearchHeader onSearch={search} />
+				<SearchHeader onSearch={search} toMainPage={toMainPage} />
 			</header>
 			<section>
-				<Keywords keywords={keywords} channel={channel} />
+				<Keywords recommend={recommend} onSearch={search} />
 			</section>
 			<section className={styles.content}>
 				{selectedVideo && (

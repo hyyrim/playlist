@@ -1,10 +1,10 @@
 import React from 'react';
 import styles from './keyword.module.css';
 
-const Keyword = ({ keyword }) => {
+const Keyword = ({ name, search, onSearch }) => {
 	return (
 		<li>
-			<button>{keyword}</button>
+			<button onClick={() => onSearch(search)}>{name}</button>
 		</li>
 	);
 };
