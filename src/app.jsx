@@ -41,10 +41,10 @@ function App({ youtube, recommend }) {
 
 	return (
 		<div className={styles.app}>
-			<header>
+			<header className={styles.header}>
 				<SearchHeader onSearch={search} toMainPage={toMainPage} />
 			</header>
-			<section>
+			<section className={styles.keywords}>
 				<Keywords recommend={recommend} onSearch={search} />
 			</section>
 			<section className={styles.content}>

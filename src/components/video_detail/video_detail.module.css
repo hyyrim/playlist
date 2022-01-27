@@ -1,8 +1,22 @@
 .detail {
 	padding: 0.2em;
+	margin-left: 2em;
+}
+
+.title {
+	font-size: 1.2rem;
+	font-weight: 400;
+	margin-bottom: 1em;
+}
+
+.channel {
+	font-size: 0.98rem;
+	font-weight: 400;
+	margin-bottom: 2em;
 }
 
 .description {
+	font-size: 0.89rem;
 	overflow: visible;
 	white-space: pre-wrap;
 }

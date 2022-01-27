@@ -6,7 +6,7 @@ const Keywords = ({ recommend, onSearch }) => {
 	return (
 		<div className={styles.container}>
 			<ul className={styles.keywords}>
-				테마
+				<p className={styles.description}>테마</p>
 				{recommend.keywords.map((item) => {
 					return (
 						<Keyword
@@ -19,7 +19,7 @@ const Keywords = ({ recommend, onSearch }) => {
 				})}
 			</ul>
 			<ul className={styles.channel}>
-				채널
+				<p className={styles.description}>채널</p>
 				{recommend.channel.map((item) => {
 					return (
 						<Keyword

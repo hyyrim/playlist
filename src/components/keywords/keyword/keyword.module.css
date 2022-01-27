@@ -1,0 +1,17 @@
+@value primary,secondary,text,makerWhite,makerGrey,makerLightGrey from '../../../common/colors.css';
+
+.button {
+	padding: 0.5em 0.8em;
+	margin-top: 0.2em;
+	margin-right: 0.4em;
+	font-size: 0.89em;
+	color: text;
+	background-color: makerWhite;
+	border: 1px solid makerLightGrey;
+	border-radius: 2em;
+	cursor: pointer;
+}
+
+.button:hover {
+	background-color: secondary;
+}

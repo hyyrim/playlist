@@ -1,3 +1,5 @@
+@value primary, text, makerGrey from '../../common/colors.css';
+
 .header {
 	display: flex;
 }
@@ -12,12 +14,13 @@
 
 .icon {
 	font-size: 2.4rem;
-	color: #b39ddb;
+	color: primary;
 }
 
 .title {
 	margin: 0 0.2em;
-	color: #212121;
+	font-weight: 600;
+	color: text;
 }
 
 .search {
@@ -27,11 +30,23 @@
 }
 
 .input {
-	font-size: 1.2em;
+	font-size: 1.2rem;
+	padding: 0.2em 0.4em;
 	outline: none;
+	border: 1px solid makerGrey;
 	flex-basis: 70%;
 }
 
 .button {
-	font-size: 1.2em;
+	width: 3em;
+	height: 1.65em;
+	font-size: 1.2rem;
+	color: text;
+	border-top: 1px solid makerGrey;
+	border-right: 1px solid makerGrey;
+	border-bottom: 1px solid makerGrey;
+	border-left: 0;
+	background-color: makerLightGrey;
+	border-radius: 0 0.2em 0.2em 0;
+	cursor: pointer;
 }

@@ -4,7 +4,9 @@ import styles from './keyword.module.css';
 const Keyword = ({ name, search, onSearch }) => {
 	return (
 		<li>
-			<button onClick={() => onSearch(search)}>{name}</button>
+			<button className={styles.button} onClick={() => onSearch(search)}>
+				{name}
+			</button>
 		</li>
 	);
 };

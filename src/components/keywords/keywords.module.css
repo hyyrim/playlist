@@ -1,3 +1,6 @@
+@value primary,text,makerGrey,makerLightGrey from '../../common/colors.css';
+@value mobile,tablet,desktop from '../../common/size.css';
+
 .container {
 	display: flex;
 	justify-content: center;
@@ -7,4 +10,35 @@
 .channel {
 	list-style: none;
 	display: flex;
+	align-items: center;
+}
+
+.description {
+	margin: 0;
+	margin-right: 0.4em;
+	color: text;
+	font-size: 0.8rem;
+}
+
+@media screen and (max-width: tablet) {
+	.container {
+		flex-direction: column;
+		align-items: center;
+	}
+	.keywords {
+		margin-bottom: 0.4em;
+	}
+	.channel {
+		margin-top: 0;
+	}
+}
+
+@media screen and (max-width: mobile) {
+	.keywords {
+		flex-wrap: wrap;
+	}
+	.channel {
+		flex-wrap: wrap;
+		align-items: center;
+	}
 }

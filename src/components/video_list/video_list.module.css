@@ -1,7 +1,15 @@
+@value mobile,tablet,desktop from '../../common/size.css';
+
 .videos {
 	display: flex;
 	flex-wrap: wrap;
 	list-style: none;
 	padding-left: 0;
-	margin: 0;
+	margin: 0.2em 1em;
+}
+
+@media screen and (max-width: mobile) {
+	.videos {
+		flex-direction: column;
+	}
 }

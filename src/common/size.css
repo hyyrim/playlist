@@ -1,0 +1,5 @@
+@value mobile: 768px;
+@value tablet: 992px;
+@value desktop: 1200px;
+
+/* @value mobile,tablet,desktop from './common/size.css'; */

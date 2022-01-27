@@ -1,0 +1,10 @@
+@value makerBlack: black;
+@value makerWhite: white;
+@value makerLightGrey: #e8e7e6;
+@value makerGrey: #626262;
+@value makerShadow: rgba(217, 217, 217, 1);
+@value primary: #b39ddb;
+@value secondary: #ede7f6;
+@value text: #212121;
+
+/* @value primary,text,makerGrey,makerLightGrey from '../../common/colors.css'; */
