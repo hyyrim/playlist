@@ -8,8 +8,9 @@
 	margin: 0.2em 1em;
 }
 
-@media screen and (max-width: mobile) {
+@media screen and (max-width: tablet) {
 	.videos {
 		flex-direction: column;
+		margin: 0 2em;
 	}
 }

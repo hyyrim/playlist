@@ -1,3 +1,5 @@
+@value mobile,tablet,desktop from '../../common/size.css';
+
 .detail {
 	padding: 0.2em;
 	margin-left: 2em;
@@ -19,4 +21,10 @@
 	font-size: 0.89rem;
 	overflow: visible;
 	white-space: pre-wrap;
+}
+
+@media screen and (max-width: tablet) {
+	.detail {
+		margin-right: 2em;
+	}
 }
