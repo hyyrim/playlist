@@ -31,3 +31,5 @@ channel.json
 
 # service
 youtube-fetch.js
+# Local Netlify folder
+.netlify
